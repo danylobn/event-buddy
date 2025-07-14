@@ -61,11 +61,11 @@ Aplicativo mobile multiplataforma desenvolvido com **React Native (Expo)** e **F
 
 ---
 
-## 🧪 Como testar
+## 📱 Testar no seu telemóvel
 
-1. Acesse o app pelo link do [Snack](https://snack.expo.dev/@nylo/snack-02570dcd-8259-4a45-bed7-f65249dae679)
-2. Use uma conta de teste já autorizada no painel de autenticação do Firebase (modo de teste)
-3. Explore, favorite e participe de eventos!
+Abra o aplicativo **Expo Go** no seu smartphone e escaneie o QR code abaixo:
+
+![QR Code](./assets/qrcode-eventbuddy.png)
 
 ---
 
