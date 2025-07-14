@@ -65,7 +65,7 @@ Aplicativo mobile multiplataforma desenvolvido com **React Native (Expo)** e **F
 
 Abra o aplicativo **Expo Go** no seu smartphone e escaneie o QR code abaixo:
 
-![QR Code](./assets/qrcode-eventbuddy.png)
+![QR Code](https://github.com/nylo/event-buddy/blob/main/assets/qrcode.png?raw=true)
 
 ---
 
